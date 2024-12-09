@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @Juanseb649
 - 👀 I’m interested in ... learn about program and many technologies 
-- 🌱 I’m currently learning ... first steps on programing 
+- 🌱 I’m currently learning ... first steps on programing and cloud technologies 
 - 😄 Pronouns: ... He/Him  
-- ⚡ Fun fact: ... I always love computers and programing, but at my actual age, I stared to learn about this world, I hope to be a good at this 
+
+I always love computers and programing, but at my actual age, I stared to learn about python as a fisrt language
 
 <!---
 Juanseb649/Juanseb649 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
