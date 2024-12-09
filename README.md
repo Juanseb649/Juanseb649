@@ -1,11 +1,6 @@
 # 💫 About Me:
 👋 About Me<br>🌟 Hi! I'm Juan Sebastián Ibarra, a programming enthusiast who is constantly learning and striving to become a skilled professional in the world of software development.<br><br>🚀 Currently, I’m diving into programming and exploring technologies such as:<br><br>IBM Cloud<br>Frameworks for Java<br>Python<br>💡 I’m eager to collaborate on challenging projects that allow me to learn and enhance my programming skills. My goal is to grow with every step, provide effective solutions, and work with excellence.<br><br>📫 Let’s connect! If you have any ideas or projects I can contribute to, feel free to reach out.<br><br>
 
-
-## 🌐 Socials:
-(https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Juan Sebastian Ibarra)
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/JuanSeb649) 
-
 # 💻 Tech Stack:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 # 📊 GitHub Stats:
