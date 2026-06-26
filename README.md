@@ -1,16 +1,21 @@
-## Hi there 👋
+<h1 align="left"><b>Hi , I'm Sebastian Ibarra</b></h1>
 
-<!--
-**Juanseb649/Juanseb649** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="left" style="display:flex; align-items:center; gap:40px;">
+  <img width="300" height="300" alt="Apple_Sebastian_Emoji" src="https://github.com/user-attachments/assets/be46cc7d-6925-4f48-9272-ac1d062c874c"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=FFFFFF&size=28&center=false&vCenter=true&width=400&height=300&duration=4000&pause=4000&lines=Software+Engineer;Freelance+Developer" alt="Typing SVG" />
+</div>
 
-Here are some ideas to get you started:
+<h1>About Me <img src="https://github.com/user-attachments/assets/2547331e-3034-43a6-9dd0-d2f3f7078d45" width="45"/></h1>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h4>I'm a Software Engineer and freelance developer, I am passionate about design, coding, and web technologies. <br />
+  I love to create clean and dynamic user interfaces. I'd love to learn a lot network and grow as a developer while also supporting other open source projects.
+</h4>
+
+<h1>GitHub Stats 📊</h1>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Juanseb649&theme=algolia" alt="Sebastian" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juanseb649&theme=algolia&layout=compact" alt="Sebastian" /></p>
+
+  <h2>Tech Stack</h2>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,typescript,javascript,nodejs,express,python,fastapi,postgresql,mongodb,docker,aws,git&theme=light" />
+</div>
