@@ -5,8 +5,13 @@
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
   <!-- Animacion Typing -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=FFFFFF&size=26&center=false&vCenter=true&width=400&height=300&duration=4000&pause=4000&lines=Welcome+to+my+GitHub+Page;Software+Engineer;Freelance+Developer" alt="Typing SVG" />
-</div> 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=FFFFFF&size=26&center=false&vCenter=true&width=400&height=300&duration=4000&pause=4000&lines=Welcome+to+my+GitHub+Page;Software+Engineer;Freelance+Developer" />
+  
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=000000&size=26&center=false&vCenter=true&width=400&height=300&duration=4000&pause=4000&lines=Welcome+to+my+GitHub+Page;Software+Engineer;Freelance+Developer" />
+  
+  <img alt="Typing SVG" src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=000000&size=26&center=false&vCenter=true&width=400&height=300&duration=4000&pause=4000&lines=Welcome+to+my+GitHub+Page;Software+Engineer;Freelance+Developer" />
+</picture>
 
   <!-- La seccion about me -->
 <h1>About Me <img src="https://github.com/user-attachments/assets/2547331e-3034-43a6-9dd0-d2f3f7078d45" width="45"/></h1>
